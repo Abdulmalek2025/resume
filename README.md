@@ -1,5 +1,5 @@
 # Abdulmalek Ba Hamid
-This repositiry include my resume.
+### This repositiry include my resume.
 
 ## Software project management mechanisms from Sdeem.org
 ![Screenshot from 2022-12-20 09-24-35](https://user-images.githubusercontent.com/56667371/208598504-f8eb1f18-baa8-42ce-bb75-4966b31f1766.png)
